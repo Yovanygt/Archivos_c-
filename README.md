@@ -7,7 +7,7 @@
 ------------
 - Proyecto 2.CPP
 - 
-- Manual de Funcionamiento del programa en formato pdf
+- Manual de Funcionamiento del programa en formato pdf leer
 
 ------------
 
