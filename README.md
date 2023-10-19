@@ -2,12 +2,15 @@
 
 ------------
 
-## Archivos Subidos
 
+Enlaces al proyecto
 ------------
-- Proyecto 2.CPP
+[Proyecto cpp](https://github.com/Yovanygt/Archivos_c-/blob/main/Proyecto2.cpp "Proyecto cpp")
 - 
-- Manual de Funcionamiento del programa en formato pdf leer
+### # Enlaces A Manuales
+ [Manual Tecnico](https://github.com/Yovanygt/Archivos_c-/blob/main/Manual_tecnico.md "Manual Tecnico")
+
+[Manual de Usuario](https://github.com/Yovanygt/Archivos_c-/blob/main/Manual%20de%20Usuario.md "Manual de Usuario")
 
 ------------
 
