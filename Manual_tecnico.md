@@ -2,6 +2,24 @@
 
 Instalar un compilador C++: Deberás instalar un compilador C++ en tu sistema. 
 
+
+# Instrucciones Generales
+
+# RAM (Memoria):
+
+- 4 GB de RAM o más: Al igual que con Python, 4 GB de RAM son suficientes para la mayoría de los proyectos de C++ estándar, que incluyen desarrollo de aplicaciones de consola, programas de escritorio y proyectos pequeños.
+
+- 8 GB o más: Si estás trabajando en proyectos más grandes, aplicaciones gráficas 3D, juegos u otros proyectos que requieren un alto rendimiento, se recomienda contar con 8 GB o más de RAM para garantizar un rendimiento óptimo.
+
+# Espacio en Disco Duro:
+
+- Al menos 20 GB de espacio en disco duro libre: Para instalar el compilador C++, las bibliotecas necesarias y otras herramientas de desarrollo. También necesitarás espacio adicional para tus proyectos y archivos fuente.
+- Además, ten en cuenta que si trabajas con proyectos grandes, bases de datos u otros archivos de datos significativos, necesitarás espacio adicional en disco. También es recomendable utilizar un disco duro sólido (SSD) en lugar de un disco duro tradicional (HDD) para mejorar la velocidad de lectura y escritura, lo que es especialmente beneficioso para el desarrollo en C++.
+
+- Las necesidades de recursos para el desarrollo en C++ , pueden variar según la complejidad y el tamaño de tus proyectos. Si trabajas en proyectos más grandes o con recursos intensivos, invertir en hardware más potente, como más RAM y un SSD rápido, puede ser beneficioso.
+
+
+
 ## Windows Software
 
 #### - MinGW-W64:
